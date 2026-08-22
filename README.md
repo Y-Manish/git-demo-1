@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 Hello this is me, user1.
-=======
-welcome to main demo
->>>>>>> main
 
+welcome to main demo
 
 
 \# Git Demo
