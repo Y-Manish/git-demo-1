@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Hello this is me, user1.
+=======
+welcome to main demo
+>>>>>>> main
 
 
 
